@@ -6,4 +6,4 @@ git clone https://github.com/evandipro2004/Warp-plus-V2
 
 cd Warp-plus-V2
 
-python warp-plus.py
+python warp-plusV2.py
